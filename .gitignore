@@ -1,0 +1,8 @@
+# tester files
+*.o
+gomoku
+renju
+replay
+*.gmk
+*.txt
+*.sh
